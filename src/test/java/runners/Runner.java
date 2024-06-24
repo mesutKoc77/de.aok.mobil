@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
                 "json:target/cucumber.json",},
         features = "/Users/mesut/IdeaProjects/Projeler/2mobilProjects/2aokMobil/de.mobil.aok/src/test/resources/features",
         glue = "stepdefinitions",
-        tags = "@mesut",
+        tags = "@mesu",
         dryRun =false
 
 )
