@@ -103,5 +103,6 @@ public class Aok {
     public void theUserShouldReceiveTheEmailThatTheFreischaltcodeWillBeSentToHisHome() {
         Assert.assertTrue("Text element does not contain expected text",
                 aokPage.textElement.getText().contains("Check your email inbox"));
+        //i have made some changess.
     }
 }

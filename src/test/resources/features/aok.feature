@@ -1,5 +1,5 @@
 
-@mesut
+@mesu
 Feature: New User Registration for MeineAok
   As a new user
   I want to register for the MeineAok application
